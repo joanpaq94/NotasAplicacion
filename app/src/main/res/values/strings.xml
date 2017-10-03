@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NotasAplicación</string>
+    <string name="textView">Calculo Notas</string>
+    <string name="textView2">Ev Proyectos</string>
+    <string name="textView3">Nota 1:</string>
+    <string name="textView4">Nota 2:</string>
+    <string name="textView5">Nota 3:</string>
+    <string name="button2">Salir</string>
+    <string name="textView11"> Calculo</string>
+    <string name="textView7"> Nota 1:</string>
+    <string name="textView8"> Nota 2:</string>
+    <string name="textView9"> Nota 3:</string>>
+    <string name="textView16"> Programación</string>
+    <string name="resul"> Su nota es:</string>
+    <string name="textView17"> Nota 1:</string>
+    <string name="textView18"> Nota 2:</string>
+    <string name="textView19"> Nota 3:</string>
+    <string name="textView13"> Calcular Notas:</string>
+    <string name="textView6"> Creado por: Jorge Angarita:</string>
+    <string name="textView26"> Aplicación que permite conocer el estado actual de notas de tus materias</string>
+    <string name="textView14"> la nota 1 y 2 se multiplican por 0.3 y la nota 3 se multiplica por 0.4, se suman y se saca el resultado final, Tu promedio se calcula por la suma de las notas finales de tus materias </string>
+    >
+</resources>

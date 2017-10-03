@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotesAplication</string>
+    <string name="textView">calculation Notes</string>
+    <string name="textView2">Ev Proyects</string>
+    <string name="textView3">Note 1:</string>
+    <string name="textView4">Note 2:</string>
+    <string name="textView5">Note 3:</string>
+    <string name="button2">Exit</string>
+    <string name="textView11"> Calculation</string>
+    <string name="textView7"> Note 1:</string>
+    <string name="textView8"> Note 2:</string>
+    <string name="textView9"> Note 3:</string>>
+    <string name="textView16"> programation</string>
+    <string name="resul"> Your note is:</string>
+    <string name="textView17"> Note 1:</string>
+    <string name="textView18"> Note 2:</string>
+    <string name="textView13"> Calculate Notes:</string>
+    <string name="textView19"> Note 3:</string>
+    <string name="textView6"> Create by: George Angarita</string>
+    <string name="textView26"> Application that allows to know the current status of notes of your subjects</string>
+    <string name="textView14"> the marks 1 and 2 are multiplied by 0.3 and the note 3 is multiplied by 0.4, are added and the final result is obtained, Your average is calculated by the sum of the final marks of your subjects</string>
+
+</resources>
